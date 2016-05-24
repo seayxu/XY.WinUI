@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0C536AE8-855E-4708-B61E-A6887BC396E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XY.WINUI.ControlEx.InvokeEx", "XY.WINUI.ControlEx.InvokeEx\XY.WINUI.ControlEx.InvokeEx.csproj", "{BF3E466E-D399-44D1-B5FE-9C54C78082B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XY.WINUI.ControlEx.InvokeEx.Test", "XY.WINUI.ControlEx.InvokeEx.Test\XY.WINUI.ControlEx.InvokeEx.Test.csproj", "{013241EC-A2DB-4BB6-822D-F1CCF760DD38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3E466E-D399-44D1-B5FE-9C54C78082B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3E466E-D399-44D1-B5FE-9C54C78082B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3E466E-D399-44D1-B5FE-9C54C78082B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3E466E-D399-44D1-B5FE-9C54C78082B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013241EC-A2DB-4BB6-822D-F1CCF760DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013241EC-A2DB-4BB6-822D-F1CCF760DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013241EC-A2DB-4BB6-822D-F1CCF760DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013241EC-A2DB-4BB6-822D-F1CCF760DD38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF3E466E-D399-44D1-B5FE-9C54C78082B7} = {0C536AE8-855E-4708-B61E-A6887BC396E9}
+		{013241EC-A2DB-4BB6-822D-F1CCF760DD38} = {0C536AE8-855E-4708-B61E-A6887BC396E9}
+	EndGlobalSection
+EndGlobal
